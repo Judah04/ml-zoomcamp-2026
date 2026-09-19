@@ -1,0 +1,17 @@
+# Environments
+.venv/
+mlenv/
+env/
+
+# Datasets & large files
+*.csv
+*.parquet
+*.json
+*.zip
+*.tar.gz
+
+# Jupyter checkpoints & cache
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.log
